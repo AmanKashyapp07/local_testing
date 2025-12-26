@@ -3,3 +3,4 @@ learning git is fun
 this is branch
 modified
 this is a login featureChange from branch A
+this is a login featureChange from branch B
