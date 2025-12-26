@@ -2,4 +2,4 @@ hello git, tutorial
 learning git is fun
 this is branch
 modified
-this is a login feature
+this is a login featureChange from branch A
